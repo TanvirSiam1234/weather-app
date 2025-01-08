@@ -9,3 +9,8 @@ function show() {
 for (let i = 0; i < 6; i++) {
     console.loh("moeww")
 }
+
+for (let i = 0; i < 6; i++) {
+    console.loh("moeww")
+}
+
